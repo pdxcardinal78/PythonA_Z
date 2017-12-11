@@ -1,0 +1,16 @@
+WEB
+1
+https://bkcweb/sites/QA/_vti_bin/owssvr.dll?XMLDATA=1&List={B114030C-D5D5-42F8-973E-D19BF9FB5609}&View={391B4A9E-0AB1-437A-B285-9C7F4ACA74AC}&RowLimit=0&RootFolder=%2fsites%2fQA%2fLists%2fQuality%20Alert
+
+Selection={B114030C-D5D5-42F8-973E-D19BF9FB5609}-{391B4A9E-0AB1-437A-B285-9C7F4ACA74AC}
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://bkcweb/sites/QA/_vti_bin
+SharePointListView={391B4A9E-0AB1-437A-B285-9C7F4ACA74AC}
+SharePointListName={B114030C-D5D5-42F8-973E-D19BF9FB5609}
+RootFolder=/sites/QA/Lists/Quality Alert
